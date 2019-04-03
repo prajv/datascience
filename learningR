@@ -1,2 +1,8 @@
 
 Notes on data science with R
+
+Topics covered:
+
+Linear regression - lm()
+Multiple regression
+Logistic regression - logis()
