@@ -1,8 +1,11 @@
 
 Notes on data science with R
 
-Topics covered:
-
+Functions/Commands in R:
+Import a library using library()
+load() - Loading a dataset
+data.frame
+Measures of dispersion - mean(), Median, Mode
 Linear regression - lm()
 Multiple regression
 Logistic regression - logis()
